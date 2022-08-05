@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a1c333c.css",
+    "main.js": "/static/js/main.243ff31b.js",
+    "static/media/banner-man2.webp": "/static/media/banner-man2.93d9e9775a20f6dd704c.webp",
+    "static/media/p1.webp": "/static/media/p1.9834eefc5b36d4e282e5.webp",
+    "static/media/p2.webp": "/static/media/p2.3d2edaa309afdff5f252.webp",
+    "static/media/ruby.png": "/static/media/ruby.638d2e0c1b408c222ae2.png",
+    "static/media/about.webp": "/static/media/about.7b780db95c3c6a554df4.webp",
+    "static/media/testimonial-1.webp": "/static/media/testimonial-1.5e9353aa3e7a01831a96.webp",
+    "static/media/p5.webp": "/static/media/p5.40f22911cc8104bfdf42.webp",
+    "static/media/testimonial-3.webp": "/static/media/testimonial-3.677360499dd5a97f022a.webp",
+    "static/media/services.svg": "/static/media/services.0d43785bd1f41e4d0371.svg",
+    "static/media/portfolio.svg": "/static/media/portfolio.bff8b39169bade93c32b.svg",
+    "static/media/testimonial-2.webp": "/static/media/testimonial-2.98cd72e395e173a02d7b.webp",
+    "static/media/testimonials.svg": "/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
+    "static/media/logo.svg": "/static/media/logo.493fe91d10d93f55433f08e805385b31.svg",
+    "static/media/p3.webp": "/static/media/p3.05179f007af7cd2ad2a6.webp",
+    "static/media/contact.svg": "/static/media/contact.acdd342ba1db0f98c7cd.svg",
+    "static/media/p4.webp": "/static/media/p4.373ffd063f14c91c84c5.webp",
+    "static/media/p6.webp": "/static/media/p6.26fcf4320bfa0eacc03a.webp",
+    "static/media/about.svg": "/static/media/about.192e39ff229e6eb06083.svg",
+    "index.html": "/index.html",
+    "main.2a1c333c.css.map": "/static/css/main.2a1c333c.css.map",
+    "main.243ff31b.js.map": "/static/js/main.243ff31b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a1c333c.css",
+    "static/js/main.243ff31b.js"
+  ]
+}
