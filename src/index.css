@@ -47,3 +47,14 @@
   width: 75%;
   margin-bottom: 50px;
 }
+
+.website-link {
+  color: white;
+  background-color: orange;
+  
+}
+
+.center {
+  text-align: center;
+  padding: 25px;
+}

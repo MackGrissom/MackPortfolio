@@ -3,14 +3,16 @@ import emailjs from '@emailjs/browser';
 
 // import contact data
 import { contact } from '../data';
-import { social } from '../data';
+// import { social } from '../data';
+
+
 export const Contact = () => {
   const form = useRef();
 
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('gmail', 'template_r2m31m3', form.current, 'cZgU7Xwas7_vdIpqd')
+    emailjs.sendForm('service_pna9z3b', 'template_r2m31m3', form.current, 'cZgU7Xwas7_vdIpqd')
       .then((result) => {
           console.log(result.text);
       }, (error) => {
@@ -57,7 +59,6 @@ export const Contact = () => {
             })}
           </div>
 
-       
 
 
 

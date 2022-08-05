@@ -12,8 +12,7 @@ const Services = () => {
             What I do for clients
           </h2>
           <p className='subtitle'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga veniam
-            labore nisium illum cupiditate reiciendis a numquam
+            My main purpose is to leave you better than when I found you, even if that means reccomending that a website might not be your businesses most strategic next step.  I'll do whatever I can to help you and your business including leveraging a large network of movers and shakers.
           </p>
         </div>
         <div className='grid lg:grid-cols-4 gap-8'>

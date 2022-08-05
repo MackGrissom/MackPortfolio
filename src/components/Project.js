@@ -9,8 +9,10 @@ const Project = ({ item }) => {
       <p className='capitalize text-accent text-sm mb-3'>{item.category}</p>
       <h3 className='text-2xl font-semibold capitalize mb-3'>{item.name}</h3>
       <p className='text-base max-w-md'>
-        Renbo is a Blockchain ticketing platform that utilizes NFT ticketing to provide fans with a unique ticketing experience. 
+        {item.description}
       </p>
+      <br /> 
+     <strong> <a href={item.link} className='website-link'> Visit Website </a> </strong>
     </div>
   );
 };

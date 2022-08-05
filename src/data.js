@@ -75,16 +75,16 @@ export const navigation = [
 // social
 export const social = [
   {
-    icon: <FiInstagram />,
-    href: 'https://www.instagram.com/mackgrissom/',
-  },
-  {
     icon: <FiGithub />,
     href: 'https://github.com/MackGrissom',
   },
   {
     icon: <FiLinkedin />,
     href: 'https://www.linkedin.com/in/mackgrissom/',
+  },
+  {
+    icon: <FiInstagram />,
+    href: 'https://www.instagram.com/mackgrissom/',
   },
 ];
 
@@ -119,12 +119,17 @@ export const projectsData = [
     image: Project1,
     name: 'Renbo.io',
     category: 'web development',
+    description: " Renbo is a full stack Blockchain ticketing platform that utilizes NFT ticketing to provide event goers with a unique ticketing experience while providing ticket sellers with full control of the resale market. Built on Ruby on Rails.",
+    link: "www.Renbo.io"
   },
+
   {
     id: '2',
     image: Project2,
     name: 'Snatch',
     category: 'web development',
+    description: "Snatch is a full stack motorbike marketplace that allows users to rent scooters/motorcycles/bikes based on their location. This was built primarily on Ruby on Rails. ",
+    link: "https://snatch-app.herokuapp.com/"
   },
   // {
   //   id: '3',
@@ -200,13 +205,13 @@ export const services = [
     icon: <FiLayout />,
     name: 'Web Design',
     description:
-      'I will provide you with a customized website design that is perfect for your business or personal site. We will work together to find the perfect style for you while maintaining modern design principles and making your website a delight to use for your end user.',
+      'I will provide you with a custom website design that is perfect for your business or personal site. We will work together to find the perfect style for you while maintaining modern design principles and making your website a delight to use for your end user.',
   },
   {
     icon: <FiSettings />,
     name: 'Web Development',
     description:
-      'Weather you already have a design, or we just built one together now is the time to make it real. This is where the real leg-work begins and your idea becomes a reality for the whole world to see.',
+      'Whether you already have a design in mind , or we just built one together now is the time to make it real. This is where the real leg-work begins and your idea becomes a reality for the whole world to see.',
   },
   {
     icon: <FiUser />,

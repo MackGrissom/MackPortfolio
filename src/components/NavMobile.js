@@ -79,7 +79,7 @@ const NavMobile = () => {
             <li key={idx} className='mb-8'>
               <Link
                 to={item.href}
-                smooth={true}
+                smooth={false}
                 duration={500}
                 offset={-70}
                 className='text-xl cursor-pointer capitalize'

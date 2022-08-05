@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { Link } from 'react-router-dom';
 // import woman image
 import ManImg from '../assets/img/banner-man2.webp';
 
@@ -21,9 +21,20 @@ const Hero = () => {
             <p className='pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left'>
               Let's connect and see how I can help you take your personal or business idea from zero to one. 
             </p>
-            <button className='btn btn-md bg-accent hover:bg-secondary-hover md:btn-lg transition-all'>
-              Work with me
-            </button>
+            {/* <button className='btn btn-md bg-accent hover:bg-secondary-hover md:btn-lg transition-all'>
+            <Link
+                to="Contact"
+                activeClass="active"
+                spy={true}
+                smooth={true}
+                duration={800}
+                offset={-70}
+                className="transition-all duration-500"
+              >
+                Work with me
+            </Link>
+              
+            </button> */}
           </div>
           <div className='hidden lg:flex flex-1 justify-end items-end h-full w-2'>
             <img src={ManImg} alt='' />
