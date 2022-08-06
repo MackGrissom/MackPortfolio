@@ -12,6 +12,7 @@ import {
   FiMapPin,
   FiLinkedin,
   FiUser,
+  FiSmile,
 } from 'react-icons/fi';
 
 // companies icons
@@ -131,12 +132,13 @@ export const projectsData = [
     description: "Snatch is a full stack motorbike marketplace that allows users to rent scooters/motorcycles/bikes based on their location. This was built primarily on Ruby on Rails. ",
     link: "https://snatch-app.herokuapp.com/"
   },
-  // {
-  //   id: '3',
-  //   image: Project3,
-  //   name: 'project name 3',
-  //   category: 'UI/UX design',
-  // },
+  {
+    id: '3',
+    image: Project3,
+    name: 'Modern UI/UX Landing Page',
+    category: 'UI/UX design',
+    description: "A modern UI-UX landing page built in React. Based off of a Figma design."
+  },
   // {
   //   id: '4',
   //   image: Project4,
@@ -217,7 +219,13 @@ export const services = [
     icon: <FiUser />,
     name: 'User Research',
     description:
-      'Having and idea is one thing, building it is another, but determining if users even want it and how they would want it is vastly more important. At the core of every successful product is a neverending push towards customer development. Lets get the conversation with your users started.',
+      'Having and idea is one thing, building it is another, but determining if users even want it and how they would want it is vastly more important. At the core of every successful product is a neverending push towards customer development that focuses on and validates a significant value proposition. Lets get the conversation with your users started.',
+  },
+  {
+    icon: <FiSmile />,
+    name: 'Branding',
+    description:
+      'Your branding is an important factor in your product market fit. In order to build a successful business you need to create brand identity, that could be from scratch or simply finding a better way to communicate your core values through compelling graphic design',
   },
 ];
 

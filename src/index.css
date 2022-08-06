@@ -44,8 +44,9 @@
 }
 
 #home > div > div > div.hidden.lg\:flex.flex-1.justify-end.items-end.h-full.w-2 > img {
-  width: 75%;
-  margin-bottom: 50px;
+  width: 57%;
+  margin-bottom: 134px;
+  margin-right: 128px;
 }
 
 .website-link {
@@ -57,4 +58,9 @@
 .center {
   text-align: center;
   padding: 25px;
+}
+
+
+#root > div > section.bg-tertiary.py-12 > div > div > div:nth-child(5) > img {
+  height: 4rem;
 }
