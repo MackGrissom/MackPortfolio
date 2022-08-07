@@ -33,7 +33,10 @@ export const Contact = () => {
             Contact me
           </h2>
           <p className='subtitle'>
-            How can I help? Please feel free to reach out on any platform, email, LinkedIn or Instagram. I'm looking forward to connecting with you and helping you take your idea from zero to one. 
+            How can I help? If you're interesting in working with me, or have questions surrounding pricing or timelines, please reach out. 
+            <br/>
+            <br/>
+            I'm looking forward to connecting with you and helping take your idea from a day-dream, written down on a napkin, to a tangible business generating revenue. 
           </p>
         </div>
         <div

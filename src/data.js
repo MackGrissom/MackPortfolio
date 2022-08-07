@@ -252,7 +252,7 @@ export const contact = [
   {
     icon: <FiMail />,
     title: 'Have a question?',
-    subtitle: 'I am here to help you!',
+    subtitle: 'Ask me anything!',
     description: 'Email me at mack@mackgrissom.io',
   },
   {
