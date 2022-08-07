@@ -223,9 +223,9 @@ export const services = [
   },
   {
     icon: <FiSmile />,
-    name: 'Branding',
+    name: 'Design Sprint',
     description:
-      ' Building and managing a brand strategy will help your company become a market leader! Design of your brand includes all aspects of your marketing program, such as advertising and customer satisfaction.',
+      'I will lead you and your team through a intensive 5 day design sprint. If you are unfamiliar a design sprint is a time-constrained, five-phase process that uses design thinking with the aim of reducing the risk when bringing a new product, service or a feature to the market. This is vital for any new product or service - here is a look into the 5 stages of a design sprint: Empathize, Define, Ideate, Prototype, and Test. If you are ready, lets start sprinting!   ',
   },
 ];
 

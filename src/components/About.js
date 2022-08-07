@@ -36,7 +36,7 @@ const About = () => {
            {/* <button className='btn btn-md bg-accent hover:bg-secondary-hover transition-all'>
               Contact me  
            </button> */}
-           
+            <a href='https://app.enhancv.com/share/7cdac89a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic' className='resume'> My Resume</a>
 
           </div>
         </div>

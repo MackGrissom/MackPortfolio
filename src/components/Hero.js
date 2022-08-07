@@ -21,6 +21,7 @@ const Hero = () => {
             <p className='pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left'>
               Let's connect and see how I can help you take your idea from zero to one. 
             </p>
+           
             {/* <button className='btn btn-md bg-accent hover:bg-secondary-hover md:btn-lg transition-all'>
             <Link
                 to="Contact"
