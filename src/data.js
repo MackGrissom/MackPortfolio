@@ -219,7 +219,7 @@ export const services = [
     icon: <FiUser />,
     name: 'User Research',
     description:
-      'Having and idea is one thing, building it is another, but building it correctly and determining if users even want it and how they would want it is vastly more important. I will provide you with answers to challenging and unexplored questions surrounding your products design. Together we can find out what consumers want from your product.  At the core of every successful product is a neverending push towards customer development. Lets get the conversation with your users started.',
+      'Having and idea is one thing, building it is another, but building it correctly and determining if users even want it and how they would want it is vastly more important. I will provide you with answers to challenging and unexplored questions surrounding your products design. Lets get the conversation with your users started.',
   },
   {
     icon: <FiSmile />,
