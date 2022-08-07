@@ -162,13 +162,13 @@ export const projectsData = [
 // projects
 export const projectsNav = [
   {
-    name: 'all',
+    name: 'All',
   },
   {
     name: 'UI/UX Design',
   },
   {
-    name: 'web development',
+    name: 'Web development',
   },
 
 ];
@@ -219,13 +219,13 @@ export const services = [
     icon: <FiUser />,
     name: 'User Research',
     description:
-      'Having and idea is one thing, building it is another, but determining if users even want it and how they would want it is vastly more important. At the core of every successful product is a neverending push towards customer development that focuses on and validates a significant value proposition. Lets get the conversation with your users started.',
+      'Having and idea is one thing, building it is another, but building it correctly and determining if users even want it and how they would want it is vastly more important. I will provide you with answers to challenging and unexplored questions surrounding your products design. Together we can find out what consumers want from your product.  At the core of every successful product is a neverending push towards customer development. Lets get the conversation with your users started.',
   },
   {
     icon: <FiSmile />,
     name: 'Branding',
     description:
-      'Your branding is an important factor in your product market fit. In order to build a successful business you need to create brand identity, that could be from scratch or simply finding a better way to communicate your core values through compelling graphic design',
+      ' Building and managing a brand strategy will help your company become a market leader! Design of your brand includes all aspects of your marketing program, such as advertising and customer satisfaction.',
   },
 ];
 
@@ -253,7 +253,7 @@ export const contact = [
     icon: <FiMail />,
     title: 'Have a question?',
     subtitle: 'I am here to help you!',
-    description: 'Email me at mcintyregrissom@gmail.com',
+    description: 'Email me at mack@mackgrissom.io',
   },
   {
     icon: <FiMapPin />,
