@@ -137,7 +137,9 @@ export const projectsData = [
     image: Project3,
     name: 'Modern UI/UX Landing Page',
     category: 'UI/UX design',
-    description: "A modern UI-UX landing page built in React. Based off of a Figma design."
+    description: "A modern UI-UX landing page built in React. Based off of a Figma design.",
+    link: "https://modern-user-interface.herokuapp.com/"
+
   },
   // {
   //   id: '4',
