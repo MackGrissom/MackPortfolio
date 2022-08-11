@@ -12,7 +12,10 @@ const Services = () => {
             What I do for clients
           </h2>
           <p className='subtitle'>
-            My main purpose is to leave you better than when I found you, whether that's designing you a website or developing your dream website and bringing your idea into fruition. <br/> I'll do everything I can to help you including leveraging a large network of movers and shakers, across various industries. 
+            My main purpose is to leave you better than when I found you, whether that's designing you a website or developing your dream website and bringing your idea into fruition. 
+            </p>
+            <p className='subtitle'>
+             I'll do everything I can to help you and if I can't help, I'm happy to leverage my large network of movers and shakers, across various industries to make sure you achieve your goals.
             </p>
           
         </div>

@@ -78,3 +78,7 @@
 #services > div > div.grid.lg\:grid-cols-4.gap-8 {
   display: flex;
 }
+
+.subtitle {
+  margin-bottom: 1rem;
+}
