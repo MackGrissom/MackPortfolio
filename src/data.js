@@ -204,29 +204,32 @@ export const services = [
   {
     icon: <FiLayout />,
     name: 'Web Design',
+    image: '',
     description:
       'I will provide you with a custom website design that is perfect for your business or personal site. We will work together to find the perfect style for you while maintaining modern design principles and making your website a delight to use for your end user.',
   },
   {
     icon: <FiSettings />,
     name: 'Web Development',
+    image: '',
     description:
       'Whether you already have a design in mind , or we just built one together now is the time to make it real. This is where the real leg-work begins and your idea becomes a reality for the whole world to see.',
   },
-  {
-    icon: <FiUser />,
-    name: 'User Research',
-    description:
-      'Having and idea is one thing, building it is another, but building it correctly and determining if users even want it and how they would want it is vastly more important. I will provide you with answers to challenging and unexplored questions surrounding your products design. Lets get the conversation with your users started.',
-  },
-  {
-    icon: <FiSmile />,
-    name: 'Design Sprint',
-    description:
-      'I will lead you and your team through a intensive 5 day design sprint. If you are unfamiliar a design sprint is a time-constrained, five-phase process that uses design thinking with the aim of reducing the risk when bringing a new product, service or a feature to the market. This is vital for any new product or service - here is a look into the 5 stages of a design sprint: Empathize, Define, Ideate, Prototype, and Test. If you are ready, lets start sprinting!   ',
-  },
+  // {
+  //   icon: <FiUser />,
+  //   name: 'User Research',
+  //   image: '',
+  //   description:
+  //     'Having and idea is one thing, building it is another, but building it correctly and determining if users even want it and how they would want it is vastly more important. I will provide you with answers to challenging and unexplored questions surrounding your products design. Lets get the conversation with your users started.',
+  // },
+  // {
+  //   icon: <FiSmile />,
+  //   name: 'Design Sprint',
+  //   image: '',
+  //   description:
+  //     'I will lead you and your team through a intensive 5 day design sprint. If you are unfamiliar a design sprint is a time-constrained, five-phase process that uses design thinking with the aim of reducing the risk when bringing a new product, service or a feature to the market. This is vital for any new product or service - here is a look into the 5 stages of a design sprint: Empathize, Define, Ideate, Prototype, and Test. If you are ready, lets start sprinting!   ',
+  // },
 ];
-
 // testimonials
 export const testimonials = [
   {
