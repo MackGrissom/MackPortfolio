@@ -185,9 +185,9 @@ export const skills = [
   {
     image: SkillImg4,
   },
-  {
-    image: SkillImg5,
-  },
+  // {
+  //   image: SkillImg5,
+  // },
   {
     image: SkillImg6,
   },

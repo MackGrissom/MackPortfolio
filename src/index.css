@@ -63,9 +63,7 @@
 }
 
 
-#root > div > section.bg-tertiary.py-12 > div > div > div:nth-child(5) > img {
-  height: 4rem;
-}
+
 
 .resume {
   background-color: rgb(172, 107, 53);
