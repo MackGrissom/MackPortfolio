@@ -20,7 +20,7 @@ const About = () => {
                 Mack Grissom
               </h2>
               <p className='mb-4 text-accent'>
-                Freelance Frontend Web Developer
+                Freelance Web Developer
               </p>
               <hr className='mb-8 opacity-5' />
               <p className='mb-8'>
