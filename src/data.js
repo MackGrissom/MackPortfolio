@@ -112,6 +112,14 @@ export const brands = [
 export const projectsData = [
   {
     id: '1',
+    image: Project4,
+    name: 'Full Circle Web Design',
+    category: 'web development',
+    description: 'My web design agency - currently operating and available to provide services - built from scratch on React and Tailwind CSS. Optimized for all devices',
+    link: 'https://www.fullcircledesign.io/' 
+  },
+  {
+    id: '2',
     image: Project1,
     name: 'Renbo.io',
     category: 'web development',
@@ -120,7 +128,7 @@ export const projectsData = [
   },
 
   {
-    id: '2',
+    id: '3',
     image: Project2,
     name: 'Snatch',
     category: 'web development',
@@ -128,7 +136,7 @@ export const projectsData = [
     link: "https://snatch-app.herokuapp.com/"
   },
   {
-    id: '3',
+    id: '4',
     image: Project3,
     name: 'Modern UI/UX Landing Page',
     category: 'UI/UX design',
@@ -136,12 +144,6 @@ export const projectsData = [
     link: "https://modern-user-interface.herokuapp.com/"
 
   },
-  // {
-  //   id: '4',
-  //   image: Project4,
-  //   name: 'project name 4',
-  //   category: 'branding',
-  // },
   // {
   //   id: '5',
   //   image: Project5,
