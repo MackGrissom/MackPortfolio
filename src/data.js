@@ -34,6 +34,8 @@ import SkillImg4 from './assets/img/skills/reactjs.png';
 import SkillImg5 from './assets/img/skills/nodejs.png';
 import SkillImg6 from './assets/img/skills/git.png';
 import SkillImg7 from './assets/img/skills/figma.png';
+import SkillImg8 from './assets/img/skills/ruby.png';
+import SkillImg9 from './assets/img/skills/rails.png';
 
 // testimonial images
 import TestiImage1 from './assets/img/testimonials/testimonial-1.webp';
@@ -195,6 +197,12 @@ export const skills = [
   {
     image: SkillImg7,
   },
+  {
+    image: SkillImg8,
+  },
+  {
+    image: SkillImg9,
+  }
 ];
 
 // services
