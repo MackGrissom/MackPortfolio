@@ -20,20 +20,17 @@ const About = () => {
                 Mack Grissom
               </h2>
               <p className='mb-4 text-accent'>
-                Freelance Web Developer
+                Full-Stack Software Engineer
               </p>
               <hr className='mb-8 opacity-5' />
               <p className='mb-8'>
-                I'm an ambitious 27 year old full stack developer & designer eager to build modern <strong> solutions</strong> for your business. As a recent graduate from one of the most decorated full stack programming bootcamps, Le Wagon, I am fully equipped to build modern products.
+                I'm an ambitious 27 year old full stack object orienteted programmer & designer, eager to build modern <strong> solutions</strong> for your business. As a recent graduate from one of the most decorated full stack programming bootcamps, Le Wagon, I am fully equipped to build modern products.
               </p>
-              <br />
-              <p className='mb-8'> Previously a UX researcher speaking directly to end users, I helped turn our research into tangible product improvements, or even brand new go-to-market products. I know first-hand the importance of customer development and building better products based off user feedback, all the while maintaining modern design principles. 
+              <p className='mb-8'> Previously a UX researcher speaking directly to end users, I helped turn our research into tangible product improvements, or even brand new go-to-market products. I know first-hand the importance of customer development and building better products based off user feedback, all the while maintaining modern development & design principles. 
               </p>
-              <p className='mb-8'>
-              I utilize the most modern technologies and frameworks to ensure your website is not only visually appealing but functionally flawless across all devices.
-            </p>
+  
 
-            <p className='mb-8'> In my freetime I enjoy travelling, hiking, surfing, learning new languages, playing guitar, reading, photography and as nerdy as it sounds, programming! </p>
+            <p className='mb-8'> In my freetime I enjoy travelling, hiking, surfing, learning new languages, playing guitar, reading, photography and programming! </p>
           </div>
 
           {/* <button className='btn btn-md bg-accent hover:bg-secondary-hover transition-all'>
