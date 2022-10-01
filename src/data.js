@@ -146,12 +146,14 @@ export const projectsData = [
     link: "https://modern-user-interface.herokuapp.com/"
 
   },
-  // {
-  //   id: '5',
-  //   image: Project5,
-  //   name: 'project name 5',
-  //   category: 'web development',
-  // },
+  {
+    id: '5',
+    image: Project5,
+    name: 'JamSesh',
+    category: 'web development',
+    description: "A Spotify Clone using 2 APIs to pull top music by genre and by location. Built in React.js, Tailwind CSS ",
+    link: "https://superlative-dolphin-935b01.netlify.app/"
+  },
   // {
   //   id: '6',
   //   image: Project6,
