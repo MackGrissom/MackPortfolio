@@ -30,8 +30,8 @@ const About = () => {
               </p> */}
   
 
-            <p className='mb-8'> In my freetime I enjoy travelling, hiking, surfing, learning new languages, playing guitar, reading, photography and of course, computer programming! </p>
-            <p className='mb-8'> I'm open to freelance projects & remote full or part time positions. Please see my resume below & continue down my portfolio to see my preffered tech stack & recent projects. </p>
+            <p className='mb-8'> In my freetime I enjoy traveling, hiking, surfing, learning new languages, playing guitar, reading, photography and of course, computer programming! </p>
+            <p className='mb-8'> I'm open to freelance projects & remote fulltime positions. Please see my resume below & continue down my portfolio to see my preffered tech stack & recent projects. </p>
           </div>
 
           {/* <button className='btn btn-md bg-accent hover:bg-secondary-hover transition-all'>
