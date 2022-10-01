@@ -121,6 +121,14 @@ export const projectsData = [
     link: 'https://www.fullcircledesign.io/' 
   },
   {
+    id: '5',
+    image: Project5,
+    name: 'JamSesh',
+    category: 'web development',
+    description: "A Spotify Clone using 2 APIs to pull top music by genre and by location. Built in React.js, Tailwind CSS ",
+    link: "https://superlative-dolphin-935b01.netlify.app/"
+  },
+  {
     id: '2',
     image: Project1,
     name: 'Renbo.io',
@@ -145,14 +153,6 @@ export const projectsData = [
     description: "A static modern UI-UX landing page for GPT-3 Artifical Intelligence, built in React.  Based off of a Figma design. Easily repurposed for any product/service. ",
     link: "https://modern-user-interface.herokuapp.com/"
 
-  },
-  {
-    id: '5',
-    image: Project5,
-    name: 'JamSesh',
-    category: 'web development',
-    description: "A Spotify Clone using 2 APIs to pull top music by genre and by location. Built in React.js, Tailwind CSS ",
-    link: "https://superlative-dolphin-935b01.netlify.app/"
   },
   // {
   //   id: '6',
