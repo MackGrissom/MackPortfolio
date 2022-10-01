@@ -125,7 +125,7 @@ export const projectsData = [
     image: Project5,
     name: 'JamSesh',
     category: 'web development',
-    description: "A Spotify Clone using 2 APIs to pull top music by genre and by location. Built in React.js, Tailwind CSS ",
+    description: "A Spotify Clone using 2 APIs to pull top music by genre and by location. Built in React.js, Tailwind CSS. Note: Adblockers must be turned off to use location API. If you need help, just contact me! ",
     link: "https://superlative-dolphin-935b01.netlify.app/"
   },
   {
