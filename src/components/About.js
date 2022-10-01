@@ -24,13 +24,14 @@ const About = () => {
               </p>
               <hr className='mb-8 opacity-5' />
               <p className='mb-8'>
-                I'm an ambitious 27 year old full stack object orienteted programmer & designer, eager to build modern <strong> solutions</strong> for your business. As a recent graduate from one of the most decorated full stack programming bootcamps, Le Wagon, I am fully equipped to build modern products.
+                I'm an ambitious full-stack, object orienteted, software engineer. I'm eager to build modern <strong> solutions</strong> for your business. As a recent graduate from one of the most decorated full-stack programming bootcamps, Le Wagon, I am fully equipped to build modern & fully responsive products.
               </p>
-              <p className='mb-8'> Previously a UX researcher speaking directly to end users, I helped turn our research into tangible product improvements, or even brand new go-to-market products. I know first-hand the importance of customer development and building better products based off user feedback, all the while maintaining modern development & design principles. 
-              </p>
+              {/* <p className='mb-8'> I use several technologies, depending on what the project calls for. My main tech stack is the following: React.JS, Tailwind CSS, Ruby, Ruby on Rails, Node.JS. However I know other languages and am eager to co
+              </p> */}
   
 
-            <p className='mb-8'> In my freetime I enjoy travelling, hiking, surfing, learning new languages, playing guitar, reading, photography and programming! </p>
+            <p className='mb-8'> In my freetime I enjoy travelling, hiking, surfing, learning new languages, playing guitar, reading, photography and of course, computer programming! </p>
+            <p className='mb-8'> I'm open to freelance projects & remote full or part time positions. Please see my resume below & continue down my portfolio to see my preffered tech stack & recent projects. </p>
           </div>
 
           {/* <button className='btn btn-md bg-accent hover:bg-secondary-hover transition-all'>
