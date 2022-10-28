@@ -16,7 +16,7 @@ const Hero = () => {
               Hey, I'm Mack! 👋
             </p>
             <h1 className='text-4xl leading-[44px] md:text-5xl md:leading-tight lg:text-7xl lg:leading-[1.2] font-bold md:tracking-[-2px]'>
-              A Full-Stack Software Engineer.
+              A Full-Stack Software Engineer & Web Developer.
             </h1>
             <p className='pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left'>
               I leverage modern technology to build business solutions. Let's connect.
