@@ -36,6 +36,7 @@ import SkillImg6 from './assets/img/skills/git.png';
 import SkillImg7 from './assets/img/skills/figma.png';
 import SkillImg8 from './assets/img/skills/ruby.png';
 import SkillImg9 from './assets/img/skills/rails.png';
+import SkillImg10 from './assets/img/skills/redux.png'
 
 // testimonial images
 import TestiImage1 from './assets/img/testimonials/testimonial-1.webp';
@@ -117,7 +118,7 @@ export const projectsData = [
     image: Project4,
     name: 'Full Circle Web Design',
     category: 'web development',
-    description: 'My web design agency - currently operating and available to provide services - built from scratch on React and Tailwind CSS. Optimized for all devices',
+    description: 'Web design agency - currently operating and available to provide services - built from scratch on React and Tailwind CSS. Optimized for all devices',
     link: 'https://www.fullcircledesign.io/' 
   },
   {
@@ -125,7 +126,7 @@ export const projectsData = [
     image: Project5,
     name: 'JamSesh',
     category: 'web development',
-    description: "A Spotify Clone using 2 APIs to pull top music by genre and by location. Built in React.js, Tailwind CSS. Note: Adblockers must be turned off to use location API. If you need help, just contact me! ",
+    description: "A Spotify Clone utilizing two APIs to pull top music by genre and by location. Built in React.js, Tailwind CSS. Note: Adblockers must be turned off to use location API. If you need help, just contact me! ",
     link: "https://superlative-dolphin-935b01.netlify.app/"
   },
   {
@@ -133,7 +134,7 @@ export const projectsData = [
     image: Project1,
     name: 'Renbo.io',
     category: 'web development',
-    description: " Renbo is a full stack Blockchain ticketing platform that utilizes NFT ticketing to provide event goers with a unique ticketing experience while providing ticket sellers with full control of the resale market. Built on Ruby on Rails.",
+    description: " Renbo is a full stack Blockchain ticketing platform that utilizes NFT ticketing. Built on Ruby on Rails. User / Admin login capabilities using ",
     link: "www.Renbo.io"
   },
 
@@ -154,12 +155,14 @@ export const projectsData = [
     link: "https://modern-user-interface.herokuapp.com/"
 
   },
-  // {
-  //   id: '6',
-  //   image: Project6,
-  //   name: 'project name 6',
-  //   category: 'web development',
-  // },
+  {
+    id: '6',
+    image: Project6,
+    name: 'Redux Counter App',
+    category: 'web development',
+    description: 'A simple counter app using Redux to manage the state and return updated state.',
+    link:'https://peppy-alpaca-c01da6.netlify.app/'
+  },
 ];
 
 // projects
