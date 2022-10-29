@@ -19,7 +19,7 @@ const Hero = () => {
               A Full-Stack Software Engineer & Web Developer.
             </h1>
             <p className='pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left'>
-              I leverage modern technology to build business solutions. Let's connect.
+              
             </p>
            
             {/* <button className='btn btn-md bg-accent hover:bg-secondary-hover md:btn-lg transition-all'>

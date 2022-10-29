@@ -117,51 +117,67 @@ export const projectsData = [
     id: '1',
     image: Project4,
     name: 'Full Circle Web Design',
-    category: 'web development',
-    description: 'Web design agency - currently operating and available to provide services - built from scratch on React and Tailwind CSS. Optimized for all devices',
-    link: 'https://www.fullcircledesign.io/' 
+    category: 'React.js',
+    description: 'Web design agency landing page- currently operating and available to provide services. Optimized for all devices',
+    link: 'https://www.fullcircledesign.io/',
+    technologies: "React, Tailwind.CSS, Node.js"
+    
   },
   {
     id: '5',
     image: Project5,
     name: 'JamSesh',
-    category: 'web development',
-    description: "A Spotify Clone utilizing two APIs to pull top music by genre and by location. Built in React.js, Tailwind CSS. Note: Adblockers must be turned off to use location API. If you need help, just contact me! ",
-    link: "https://superlative-dolphin-935b01.netlify.app/"
+    category: 'API',
+    description: "A Spotify Clone utilizing two APIs to pull top music by genre and by location. Note: Adblockers or Brave browser must be turned off to use location API. ",
+    link: "https://superlative-dolphin-935b01.netlify.app/",
+    technologies: "React.js, Next.js, Typescript, Tailwind.CSS, Node.js",
+    Note: ''
+    
   },
   {
     id: '2',
     image: Project1,
     name: 'Renbo.io',
-    category: 'web development',
-    description: " Renbo is a full stack Blockchain ticketing platform that utilizes NFT ticketing. Built on Ruby on Rails. User / Admin login capabilities using ",
-    link: "www.Renbo.io"
+    category: 'Rails',
+    description: " Renbo is a full stack Blockchain ticketing platform that utilizes NFT ticketing. Built on Ruby on Rails. User / Admin login capabilities using devise. Payment capabilities using Stripe. PostgreSQL database.  ",
+    link: "www.Renbo.io",
+    technologies: "Ruby, Ruby on Rails, PostgreSQL",
+    note: ''
+    
   },
-
+  
   {
     id: '3',
     image: Project2,
     name: 'Snatch',
-    category: 'web development',
-    description: "Snatch is a full stack motorbike marketplace that allows users to rent scooters/motorcycles/bikes based on their location. This was built primarily on Ruby on Rails. ",
-    link: "https://snatch-app.herokuapp.com/"
+    category: 'Rails',
+    description: "A full stack motorbike marketplace that allows users to rent based on their location. This was built using Ruby on Rails, SCSS and PostgreSQL. Authentication using devise, with admin and user views. ",
+    link: "https://snatch-app.herokuapp.com/",
+    technologies: "Ruby, Rails, PostgreSQL, Figma",
+    note:''
   },
   {
     id: '4',
     image: Project3,
     name: 'Modern UI/UX Landing Page',
-    category: 'UI/UX design',
+    category: 'React.js',
     description: "A static modern UI-UX landing page for GPT-3 Artifical Intelligence, built in React.  Based off of a Figma design. Easily repurposed for any product/service. ",
-    link: "https://modern-user-interface.herokuapp.com/"
-
+    link: "https://modern-user-interface.herokuapp.com/",
+    technologies: "React.js, Scss, Figma",
+    note:''
+    
+    
   },
   {
     id: '6',
     image: Project6,
     name: 'Redux Counter App',
-    category: 'web development',
+    category: 'Redux',
     description: 'A simple counter app using Redux to manage the state and return updated state.',
-    link:'https://peppy-alpaca-c01da6.netlify.app/'
+    link:'https://peppy-alpaca-c01da6.netlify.app/',
+    technologies: "React.js, CSS, Redux",
+    
+    note:''
   },
 ];
 
@@ -171,12 +187,18 @@ export const projectsNav = [
     name: 'All',
   },
   {
-    name: 'UI/UX Design',
-  },
+    name: 'React.js',
+  },  
   {
-    name: 'Web development',
-  },
-
+    name: 'Rails',
+  },  
+  {
+    name: 'API',
+  },  
+  {
+    name: 'Redux',
+  },  
+  
 ];
 
 // skill
@@ -220,14 +242,14 @@ export const services = [
     name: 'Web Design',
     image: '',
     description:
-      'I will provide you with a custom website design that is perfect for your business or personal site. We will work together to find the perfect style for you while maintaining modern design principles and making your website a delight to use for your end user.',
+    'I will provide you with a custom website design that is perfect for your business or personal site. We will work together to find the perfect style for you while maintaining modern design principles and making your website a delight to use for your end user.',
   },
   {
     icon: <FiSettings />,
     name: 'Web Development',
     image: '',
     description:
-      'Whether you already have a design in mind , or we just built one together now is the time to make it real. This is where the real leg-work begins and your idea becomes a reality for the whole world to see.',
+    'Whether you already have a design in mind , or we just built one together now is the time to make it real. This is where the real leg-work begins and your idea becomes a reality for the whole world to see.',
   },
   // {
   //   icon: <FiUser />,
@@ -249,14 +271,14 @@ export const testimonials = [
   {
     authorImg: TestiImage1,
     authorText:
-      'I worked with Mack as project manager during the development of his web app Renbo. Mack impressed me by his detail oriented attitude towards his front-end features from the from the prototyping to the deployment in production. I can also state with confidence that he has been a balancing element in the dev team as per his strong interpersonal skills, an important skill that I look for in the fast paced environment of building an MVP. I can recommend 100% Mack for a full-stack developer or front-end role.',
+    'I worked with Mack as project manager during the development of his web app Renbo. Mack impressed me by his detail oriented attitude towards his front-end features from the from the prototyping to the deployment in production. I can also state with confidence that he has been a balancing element in the dev team as per his strong interpersonal skills, an important skill that I look for in the fast paced environment of building an MVP. I can recommend 100% Mack for a full-stack developer or front-end role.',
     authorName: 'Daniel Rodriguez',
     authorPosition: 'Project Manager',
   },
   {
     authorImg: TestiImage2,
     authorText:
-      'Mack is an excellent leader. He is incredibly aware of his skills and the people that surround him. He is definitely a great team player, especially under high pressure, and it was always rewarding to work with him. He has helped me grow as a professional and as an individual. I am looking forward to working with you again Mack!',
+    'Mack is an excellent leader. He is incredibly aware of his skills and the people that surround him. He is definitely a great team player, especially under high pressure, and it was always rewarding to work with him. He has helped me grow as a professional and as an individual. I am looking forward to working with you again Mack!',
     authorName: 'Jorge Eduardo Quiroz Villa',
     authorPosition: 'Founder of Digital Marketing & Sales Agency - Medical Industry',
   },

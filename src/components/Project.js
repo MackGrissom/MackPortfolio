@@ -6,13 +6,14 @@ const Project = ({ item }) => {
       <div className='mb-8'>
         <img className='rounded-2xl' src={item.image} alt='' />
       </div>
-      <p className='capitalize text-accent text-sm mb-3'>{item.category}</p>
+      {/* <p className='capitalize text-accent text-sm mb-3'>{item.category}</p> */}
       <h3 className='text-2xl font-semibold capitalize mb-3'>{item.name}</h3>
-      <p className='text-base max-w-md'>
+      <text className='text-1xl font-bold caapitalize mb-3 color:[white]'> {item.technologies} </text>
+      <p className='text-base max-w-md '>
         {item.description}
       </p>
       <br /> 
-     <strong> <a href={item.link} className='website-link'> Visit Website </a> </strong>
+     <strong> <a href={item.link} className='website-link '> Visit Website </a> </strong>
     </div>
   );
 };
