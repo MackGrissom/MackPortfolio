@@ -295,7 +295,7 @@ export const contact = [
   {
     icon: <FiMapPin />,
     title: 'Current Location',
-    subtitle: 'Bangkok, Thailand',
+    subtitle: 'Remote',
     description: 'Serving clients worldwide',
   },
 ];
