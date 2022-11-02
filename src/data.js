@@ -25,6 +25,7 @@ import Project3 from './assets/img/projects/p3.webp';
 import Project4 from './assets/img/projects/p4.webp';
 import Project5 from './assets/img/projects/p5.webp';
 import Project6 from './assets/img/projects/p6.webp';
+import Project7 from './assets/img/projects/p7.webp';
 
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
@@ -176,6 +177,17 @@ export const projectsData = [
     category: 'Redux',
     description: 'A simple counter app using Redux to manage the state and return updated state.',
     link:'https://peppy-alpaca-c01da6.netlify.app/',
+    technologies: "React.js, CSS, Redux",
+    
+    note:''
+  },
+  {
+    id: '7',
+    image: Project7,
+    name: 'Redux Toolkit Shopping Cart',
+    category: 'Redux',
+    description: 'A fully functional shopping cart built using react & redux toolkit. The shopping cart uses an API call to display items and their details.',
+    link:'https://prismatic-fenglisu-9a68d5.netlify.app/',
     technologies: "React.js, CSS, Redux",
     
     note:''
