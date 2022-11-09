@@ -59,10 +59,10 @@ export const navigation = [
     name: 'portfolio',
     href: 'portfolio',
   },
-  // {
-  //   name: 'services',
-  //   href: 'services',
-  // },
+  {
+    name: 'services',
+    href: 'services',
+  },
   {
     name: 'testimonials',
     href: 'testimonials',
