@@ -125,17 +125,17 @@ export const projectsData = [
     technologies: "React, Tailwind.CSS, Node.js"
     
   },
-  {
-    id: '5',
-    image: Project5,
-    name: 'JamSesh',
-    category: 'API',
-    description: "A Spotify Clone utilizing two APIs to pull top music by genre and by location. Note: Adblockers or Brave browser must be turned off to use location API. ",
-    link: "https://superlative-dolphin-935b01.netlify.app/",
-    technologies: "React.js, Next.js, Typescript, Tailwind.CSS, Node.js",
-    Note: ''
+  // {
+  //   id: '5',
+  //   image: Project5,
+  //   name: 'JamSesh',
+  //   category: 'API',
+  //   description: "A Spotify Clone utilizing two APIs to pull top music by genre and by location. Note: Adblockers or Brave browser must be turned off to use location API. ",
+  //   link: "https://superlative-dolphin-935b01.netlify.app/",
+  //   technologies: "React.js, Next.js, Typescript, Tailwind.CSS, Node.js",
+  //   Note: ''
     
-  },
+  // },
   {
     id: '2',
     image: Project1,
