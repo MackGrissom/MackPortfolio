@@ -141,7 +141,7 @@ export const projectsData = [
     image: Project1,
     name: 'Renbo.io',
     category: 'Rails',
-    description: " Renbo is a full stack Blockchain ticketing platform that utilizes NFT ticketing. Built on Ruby on Rails. User / Admin login capabilities using devise. Payment capabilities using Stripe. PostgreSQL database.  ",
+    description: "Renbo is a full stack Blockchain ticketing platform that utilizes NFT ticketing. Built on Ruby on Rails. User / Admin login capabilities using devise. Payment capabilities using Stripe. PostgreSQL database.  ",
     link: "https://renbo-redeploy.herokuapp.com/",
     technologies: "Ruby, Ruby on Rails, PostgreSQL",
     note: ''

@@ -14,6 +14,11 @@ const Portfolio = () => {
           <p className='subtitle'>
             Here are my latest projects - feel free to take a look. 
           </p>
+          <p className='subtitle opacity-50 text-xs'>
+            Please note that due to the various package updates required within projects, occasionally projects may be temporarily down.  <br/> 
+            <br/>
+            If you'd like to see my code, you can find it on github or contact me directly if you'd like a demo! 
+          </p>
         </div>
         <Projects />
       </div>
