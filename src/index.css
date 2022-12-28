@@ -80,3 +80,8 @@
 .subtitle {
   margin-bottom: 1rem;
 }
+
+
+#home {
+  height: 100vh;
+}

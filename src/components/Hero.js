@@ -37,7 +37,8 @@ const Hero = () => {
               
             </button> */}
           </div>
-          <div className='hidden lg:flex flex-1 justify-end items-end h-full w-2'>
+          <div className='hidden lg:flex flex-1 justify-end items-end h-full w-2 md:mb-[30%] sm:!mt-0 
+          !ml-0 !mr-0 !mb-[200px]'>
             <img src={ManImg} alt='' />
           </div>
         </div>
