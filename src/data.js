@@ -27,6 +27,7 @@ import Project5 from './assets/img/projects/p5.webp';
 import Project6 from './assets/img/projects/p6.webp';
 import Project7 from './assets/img/projects/p7.webp';
 import Project8 from './assets/img/projects/p8.webp';
+import Project9 from './assets/img/projects/p9.webp';
 
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
@@ -201,6 +202,16 @@ export const projectsData = [
     description: 'An interactive sphere built using Threejs and GSAP ',
     technologies: "ThreeJS",
     link: 'https://cozy-maamoul-17e39f.netlify.app/',
+    note:''
+  },
+  {
+    id: '9',
+    image: Project9,
+    name: 'Coding Chat Bot - GPT3',
+    category: 'JavaScript',
+    description: 'A GPT-3 chatbot that can write code and explain coding concepts to you.  ',
+    technologies: "Javascript",
+    link: 'https://open-ai-codex-gilt.vercel.app/',
     note:''
   },
 ];
