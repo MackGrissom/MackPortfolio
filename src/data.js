@@ -209,7 +209,7 @@ export const projectsData = [
     image: Project9,
     name: 'Coding Chat Bot - GPT3',
     category: 'JavaScript',
-    description: 'A GPT-3 chatbot that can write code and explain coding concepts to you.  ',
+    description: 'A GPT-3 chatbot using OpenAI API that can write code and explain coding concepts to you!',
     technologies: "Javascript",
     link: 'https://open-ai-codex-gilt.vercel.app/',
     note:''
