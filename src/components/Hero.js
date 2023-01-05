@@ -22,7 +22,7 @@ const Hero = () => {
             <p className='pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left'>
               I build modern, fully-responsive Websites and Web apps.
             </p>
-            <div className='flex'>
+            {/* <div className='flex'>
               <button class="relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-red-200 via-red-300 to-yellow-200 group-hover:from-red-200 group-hover:via-red-300 group-hover:to-yellow-200 dark:text-white dark:hover:text-gray-900 focus:ring-4 focus:outline-none focus:ring-red-100 dark:focus:ring-red-400">
                 <a href='/contact' class="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
                   Contact Me
@@ -30,7 +30,7 @@ const Hero = () => {
 
                 <button type="button" class="text-gray-900 hover:text-white border border-gray-800 hover:bg-gray-900 focus:ring-4 focus:outline-none focus:ring-gray-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2 dark:border-gray-600 dark:text-gray-400 dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-gray-800"><a href='/projects'>See My Projects </a></button>
               
-            </div>
+            </div> */}
 
           </div>
           <div className='hidden lg:flex flex-1 justify-end items-end h-full w-2 md:mb-[30%] sm:!mt-0 
