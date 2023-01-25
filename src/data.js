@@ -28,7 +28,7 @@ import Project6 from './assets/img/projects/p6.webp';
 import Project7 from './assets/img/projects/p7.webp';
 import Project8 from './assets/img/projects/p8.webp';
 import Project9 from './assets/img/projects/p9.webp';
-
+import Project10 from './assets/img/projects/p10.webp'
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
 import SkillImg2 from './assets/img/skills/css3.png';
@@ -136,14 +136,67 @@ export const projectsData = [
   //   link: "https://superlative-dolphin-935b01.netlify.app/",
   //   technologies: "React.js, Next.js, Typescript, Tailwind.CSS, Node.js",
   //   Note: ''
-    
+  
   // },
+  {
+    id: '9',
+    image: Project9,
+    name: 'Coding Chat Bot - GPT3',
+    category: 'JavaScript',
+    description: 'A GPT-3 chatbot using OpenAI API that can write code and explain coding concepts to you!',
+    technologies: "Javascript",
+    link: 'https://open-ai-codex-gilt.vercel.app/',
+    note:''
+  },
+  {
+    id: '10',
+    image: Project10,
+    name: 'Precision Stoneworks',
+    category: 'React',
+    description: "Built using vite, React and Tailwind CSS. Landing page for a stone fabricator located in North Georgia, USA.",
+    link: "https://dainty-pithivier-9c8e31.netlify.app/",
+    technologies: "React.js, Figma, Tailwind",
+    note: ''
+    
+  },
+  {
+    id: '8',
+    image: Project8,
+    name: 'ThreeJS Interactive 3d Sphere',
+    category: 'ThreeJS',
+    description: 'An interactive sphere built using Threejs and GSAP ',
+    technologies: "ThreeJS",
+    link: 'https://cozy-maamoul-17e39f.netlify.app/',
+    note:''
+  },
+  {
+    id: '6',
+    image: Project6,
+    name: 'Redux Counter App',
+    category: 'Redux',
+    description: 'A simple counter app using Redux to manage the state and return updated state.',
+    link:'https://peppy-alpaca-c01da6.netlify.app/',
+    technologies: "React.js, CSS, Redux",
+    
+    note:''
+  },
+  {
+    id: '7',
+    image: Project7,
+    name: 'Redux Toolkit Shopping Cart',
+    category: 'Redux',
+    description: 'A fully functional shopping cart built using react & redux toolkit. The shopping cart uses an API call to display items and their details.',
+    link:'https://prismatic-fenglisu-9a68d5.netlify.app/',
+    technologies: "React.js, CSS, Redux",
+    
+    note:''
+  },
   {
     id: '2',
     image: Project1,
     name: 'Renbo.io',
     category: 'Rails',
-    description: "Renbo is a full stack Blockchain ticketing platform that utilizes NFT ticketing. Built on Ruby on Rails. User / Admin login capabilities using devise. Payment capabilities using Stripe. PostgreSQL database.  ",
+    description: "Renbo is a full stack Blockchain ticketing platform that utilizes NFT ticketing. Built on Ruby on Rails. User / Admin login capabilities using devise. Payment capabilities using Stripe. PostgreSQL database currently down.  ",
     link: "https://renbo-redeploy.herokuapp.com/",
     technologies: "Ruby, Ruby on Rails, PostgreSQL",
     note: ''
@@ -172,48 +225,7 @@ export const projectsData = [
     
     
   },
-  {
-    id: '6',
-    image: Project6,
-    name: 'Redux Counter App',
-    category: 'Redux',
-    description: 'A simple counter app using Redux to manage the state and return updated state.',
-    link:'https://peppy-alpaca-c01da6.netlify.app/',
-    technologies: "React.js, CSS, Redux",
-    
-    note:''
-  },
-  {
-    id: '7',
-    image: Project7,
-    name: 'Redux Toolkit Shopping Cart',
-    category: 'Redux',
-    description: 'A fully functional shopping cart built using react & redux toolkit. The shopping cart uses an API call to display items and their details.',
-    link:'https://prismatic-fenglisu-9a68d5.netlify.app/',
-    technologies: "React.js, CSS, Redux",
-    
-    note:''
-  },
-  {
-    id: '8',
-    image: Project8,
-    name: 'ThreeJS Interactive 3d Sphere',
-    category: 'ThreeJS',
-    description: 'An interactive sphere built using Threejs and GSAP ',
-    technologies: "ThreeJS",
-    link: 'https://cozy-maamoul-17e39f.netlify.app/',
-    note:''
-  },
-  {
-    id: '9',
-    image: Project9,
-    name: 'Coding Chat Bot - GPT3',
-    category: 'JavaScript',
-    description: 'A GPT-3 chatbot using OpenAI API that can write code and explain coding concepts to you!',
-    technologies: "Javascript",
-    link: 'https://open-ai-codex-gilt.vercel.app/',
-    note:''
-  },
+  
 ];
 
 // projects
@@ -235,6 +247,9 @@ export const projectsNav = [
   },  
   {
     name: 'ThreeJS',
+  },  
+  {
+    name: 'Tailwind',
   },  
   
 ];
