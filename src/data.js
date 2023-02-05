@@ -30,6 +30,7 @@ import Project8 from './assets/img/projects/p8.webp';
 import Project9 from './assets/img/projects/p9.webp';
 import Project10 from './assets/img/projects/p10.webp'
 import Project11 from './assets/img/projects/p11.webp'
+import Project12 from './assets/img/projects/p12.webp'
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
 import SkillImg2 from './assets/img/skills/css3.png';
@@ -167,6 +168,17 @@ export const projectsData = [
     category: 'React',
     description: "Built using vite, React and Tailwind CSS. Landing page for a stone fabricator located in North Georgia, USA.",
     link: "https://dainty-pithivier-9c8e31.netlify.app/",
+    technologies: "React.js, Figma, Tailwind",
+    note: ''
+    
+  },
+  {
+    id: '12',
+    image: Project12,
+    name: 'Weightless',
+    category: 'React',
+    description: "Built using vite, React and Tailwind CSS. Mockup Landing page for digital nomad job board.",
+    link: "https://weightless-frontend.netlify.app/",
     technologies: "React.js, Figma, Tailwind",
     note: ''
     
