@@ -31,6 +31,7 @@ import Project9 from './assets/img/projects/p9.webp';
 import Project10 from './assets/img/projects/p10.webp'
 import Project11 from './assets/img/projects/p11.webp'
 import Project12 from './assets/img/projects/p12.webp'
+import Project13 from './assets/img/projects/p13.webp'
 // skills images
 import SkillImg1 from './assets/img/skills/html5.png';
 import SkillImg2 from './assets/img/skills/css3.png';
@@ -194,6 +195,16 @@ export const projectsData = [
     note:''
   },
   {
+    id: '13',
+    image: Project13,
+    name: 'Weather App',
+    category: 'Javascript',
+    description: 'Weather App utilizing openweathermap.org API ',
+    technologies: "JavaScript",
+    link: 'https://legendary-biscuit-daf8f6.netlify.app/',
+    note:''
+  },
+  {
     id: '6',
     image: Project6,
     name: 'Redux Counter App',
@@ -237,18 +248,18 @@ export const projectsData = [
     technologies: "Ruby, Rails, PostgreSQL, Figma",
     note:''
   },
-  {
-    id: '4',
-    image: Project3,
-    name: 'Modern UI/UX Landing Page',
-    category: 'React.js',
-    description: "A static modern UI-UX landing page for GPT-3 Artifical Intelligence, built in React.  Based off of a Figma design. Easily repurposed for any product/service. ",
-    link: "https://modern-user-interface.herokuapp.com/",
-    technologies: "React.js, Scss, Figma",
-    note:''
+  // {
+  //   id: '4',
+  //   image: Project3,
+  //   name: 'Modern UI/UX Landing Page',
+  //   category: 'React.js',
+  //   description: "A static modern UI-UX landing page for GPT-3 Artifical Intelligence, built in React.  Based off of a Figma design. Easily repurposed for any product/service. ",
+  //   link: "https://modern-user-interface.herokuapp.com/",
+  //   technologies: "React.js, Scss, Figma",
+  //   note:''
     
     
-  },
+  // },
   
 ];
 
