@@ -168,7 +168,7 @@ export const projectsData = [
     name: 'Precision Stoneworks',
     category: 'React',
     description: "Built using vite, React and Tailwind CSS. Landing page for a stone fabricator located in North Georgia, USA.",
-    link: "https://dainty-pithivier-9c8e31.netlify.app/",
+    link: "https://precisionstoneworks.netlify.app/",
     technologies: "React.js, Figma, Tailwind",
     note: ''
     
@@ -201,7 +201,7 @@ export const projectsData = [
     category: 'Javascript',
     description: 'Weather App utilizing openweathermap.org API ',
     technologies: "JavaScript",
-    link: 'https://legendary-biscuit-daf8f6.netlify.app/',
+    link: 'https://weattherapp.netlify.app/',
     note:''
   },
   {
